@@ -1,0 +1,14 @@
+     button {
+         text-align: center;
+         font-size: 22px;
+         background-color: blue;
+         color: white;
+         padding: 20px;
+         border-radius: 20px;
+         font-weight: bolder;
+         cursor: pointer;
+     }
+     
+     .anim {
+         box-shadow: 0 15px 18px 0 yellow;
+     }
